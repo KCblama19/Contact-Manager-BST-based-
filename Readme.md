@@ -3,8 +3,6 @@
 A console-based **Contact Manager** that stores and manages contacts using a **Binary Search Tree (BST)** for efficient searching by name.  
 This project demonstrates how data structures can be applied to real-world problems, focusing on **insertion, searching, updating, and deletion** of contacts.
 
----
-
 ## Features
 
 - Add new contacts (name, phone, email, address)
@@ -14,14 +12,10 @@ This project demonstrates how data structures can be applied to real-world probl
 - Display all contacts in alphabetical order (in-order BST traversal)
 - Input validation to ensure clean and structured data
 
----
-
 ## Technologies Used
 
 - **Language**: Python 3
 - **Data Structure**: Binary Search Tree (BST)
-
----
 
 ## Project Structure
 
@@ -30,8 +24,6 @@ ContactManager/
 │── contact_manager.py # Main program logic
 │── README.md # Project documentation
 ```
-
----
 
 ## How It Works
 
@@ -46,8 +38,6 @@ ContactManager/
    - **Update**: Modify an existing contact’s details.
    - **Delete**: Remove a contact from the BST.
    - **Traverse**: List all contacts alphabetically.
-
----
 
 ## Setup & Run (Beginner-Friendly)
 
@@ -105,8 +95,6 @@ Enter address: 123 Main St
 Contact added successfully!
 ```
 
----
-
 ## Future Improvements
 
 - Save contacts to a file(persistent storage)
@@ -114,8 +102,6 @@ Contact added successfully!
 - GUI version(Tkinter or web-based)
 - Balance BST using AVL Tree or Red-Black Tree for optimal efficiency
 - Add contact groups and tags
-
----
 
 ## Learning Goals
 
@@ -126,13 +112,11 @@ This project helped reinforce:
 - Error handling and input validation
 - Designing a real-world mini-application
 
----
-
 ## Author
 
 - Abraham K.C Blama(I'm thinking of nicknaming myself **Round-Robin**)
 - Wanna see more of my projects come here: [KCblama19](https://github.com/KCblama19)  
 - Contact me at: [Roubin-Robin-Mail](abrahamablama19@gmail.com)
 ```bash  
-For context: Round-Robin(scheduling algorithm) is one of the fairest algorithm in computer science, it balances every tasks in the CPU so that each task gets a turn to be executed and I like to live that way too: balanced, fair, and making sure no want in my cycle gets left out but with a twist I don't let anyone hog my time, lol, so basically, I would check-in, keep things moving and move to the next person.  
+For context: Round-Robin(scheduling algorithm) is one of the fairest algorithm in computer science, it balances every tasks in the CPU so that each task gets a turn to be executed and I like to live that way too: balanced, fair, and making sure no one in my cycle gets left out, but, with a twist, I don't let anyone hog my time, lol, so basically, I would check-in, keep things moving and move to the next person.  
 ```
